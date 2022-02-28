@@ -13,9 +13,9 @@ import { Navbar } from './components';
 
 const App = () => {
   return (
-    <div className=''>
+    <>
       <Navbar />
-      <Header />
+      {/* <Header />
       <AboutUs />
       <SpecialMenu />
       <Chef />
@@ -23,8 +23,8 @@ const App = () => {
       <Laurels />
       <Gallery />
       <FindUs />
-      <Footer />
-    </div>
+      <Footer /> */}
+    </>
   );
 };
 
