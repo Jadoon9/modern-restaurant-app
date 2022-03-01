@@ -15,7 +15,7 @@ const App = () => {
   return (
     <>
       <Navbar />
-      {/* <Header />
+      <Header />
       <AboutUs />
       <SpecialMenu />
       <Chef />
@@ -23,7 +23,7 @@ const App = () => {
       <Laurels />
       <Gallery />
       <FindUs />
-      <Footer /> */}
+      <Footer />
     </>
   );
 };
